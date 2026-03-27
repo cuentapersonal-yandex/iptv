@@ -27,6 +27,10 @@ http://38.49.128.38:8000/play/a0le/index.m3u8
 http://38.49.128.38:8000/play/a0ne/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprJaDiOTimHeQhesBF2t168HAUtaUI0HNDpO-fAnLNUzfegU5C4cMHMvh&s=10" group-title="MEX/USA/LATAM",CANAL AZTECA 7
 http://38.49.128.38:8000/play/a0la/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Azteca_Guate_2017.png.png/revision/latest?cb=20210618134037&path-prefix=es" group-title="MEX/USA/LATAM",TV AZTECA GUATE
+https://channel1-tva.duin.dev/tv/streaming/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/AMasGuate2023.png/revision/latest?cb=20230728205932&path-prefix=es" group-title="MEX/USA/LATAM",A MAS GUATE
+https://channel2-tva.duin.dev/tv/streaming/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/thumbnail.jpg" group-title="MEX/USA/LATAM",AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0aEppsRZbeL5v-S26r5Sk9RbuNgbGpFijVzdtfi3xXMwHIl1SNIKrZX8&s=10" group-title="MEX/USA/LATAM",LAS ESTRELLAS LATINOAMERICA
@@ -149,3 +153,4 @@ https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/1080p-cc/index.m3u8
 https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/60e3d0eb291c1c86f567c06f75642620.webp" group-title="CANALES FAST",FREETV CRIME FAST
 https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr_720p.m3u8
+
