@@ -8,7 +8,7 @@ https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-GdmThVE45ey6KgOpeG8i83vdDu8SL0Ozn91rhdTiJhM_i05fvudr4xfH2Z8YuY48VTWM0LI5Q=s900-c-k-c0x00ffffff-no-rj" group-title="MEX/USA/LATAM",ADN NOTICIAS
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP9PRUCMdt5Cj2xr1ujZVHsu9F0H6NYDinUg&s" group-title="MEX/USA/LATAM",CANAL 5
-http://38.49.128.38:8000/play/a0n6/index.m3u8
+http://185.56.109.253/Canal5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1834645317901320192/YOxivfL1_400x400.jpg" group-title="MEX/USA/LATAM",N+ FORO
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprJaDiOTimHeQhesBF2t168HAUtaUI0HNDpO-fAnLNUzfegU5C4cMHMvh&s=10" group-title="MEX/USA/LATAM",AZTECA 7
