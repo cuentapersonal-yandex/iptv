@@ -133,7 +133,7 @@ https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr_720p.m3u8
 https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8PPqvVl-ku7bPLe7DUQaDGOAat9l_sW3wvb_Pzkjw9g&s=10" group-title="CANALES SI ESTABLES",NATURALEZA SALVAJE
 https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/f2c45d_5e41cb7336f240a3ac172d69927fd5ca~mv2.png/v1/fill/w_228,h_228,al_c,q_85,enc_avif,quality_auto/f2c45d_5e41cb7336f240a3ac172d69927fd5ca~mv2.png" group-title="CANALES SI ESTABLES",TRACE LATINA
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/f2c45d_5e41cb7336f240a3ac172d69927fd5ca~mv2.png/v1/fill/w_228,h_228,al_c,q_85,enc_avif,quality_auto/f2c45d_5e41cb7336f240a3ac172d69927fd5ca~mv2.png" group-title="CANALES SI ESTABLES",h_228
 https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0cFLiuykM4l1FHbEokINOEZ9jYq1ylW0eumgW_BWWZg&s" group-title="CANALES NO ESTABLES",CANAL DE LAS ESTRELLAS
 http://38.49.128.38:8000/play/a0le/index.m3u8
@@ -227,6 +227,4 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playl
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-25.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/cH4kYblOErtfBb83ogYYRJQuh6LZmYSfLlsP2jdnkBt8MBIYPvIWNKbPDKPrDQxkE19DWGle1mM=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES NO ESTABLES",CANAL LIFETIME
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/Lifetime.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Dr. Stone: Science Future",Dr. Stone: Science Future Episodio 31
-https://player.zilla-networks.com/m3u8/4f38f0abb466e54111033fa549c30cc6
 
