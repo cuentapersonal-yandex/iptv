@@ -43,16 +43,16 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/xs83xgGvmY_nhGK6Fmvn-KppLaLqP5df9Gg4-GPmoqjJM1VEj57riQED6PvjhLC2RITgbGFf8A=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES SI ESTABLES",UNIVERSO CENTRO USA
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/446FABE6-D80D-406D-9254-99DCBF06DE3D/3-1x1.png/900" group-title="CANALES SI ESTABLES",TELEMUNDO AL DIA FAST
+#EXTINF:-1 tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/446FABE6-D80D-406D-9254-99DCBF06DE3D/3-1x1.png/900" group-title="CANALES SI ESTABLES",TELEMUNDO AL DIA
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889469
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/MQz5kxEXUHXQaHPoSAauzvY_qkviSBsRYuvpbtaKuZm-PSZaWkv2JBBqxlsSCK3Tn9knEOEA=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES SI ESTABLES",TELEMUNDO CASO CERRADO FAST
 https://lgcp-xumoent-ch836-ymp4e.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/oFrAbWveSRbde-CXBK7IiZc82Jc66uUSJfG137_ur_du9m7bODrKQGdH0gYBmJTARtpvnYuh=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES SI ESTABLES",DISNEY CHANNEL
 http://209.126.106.30:8081/live/cfe348a284974881b7db90c338a05a09/f262025569a346b5900f3f9a7f963d46/36.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6KYIGgspye1bIPCCjvLJJrEn1MvquuGu8kqN22lD8wNZVplFFfJe_Fwo&s=10" group-title="CANALES SI ESTABLES",DISNEY JR OPCION 2
-http://152.231.29.139:8000/play/a0be/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6KYIGgspye1bIPCCjvLJJrEn1MvquuGu8kqN22lD8wNZVplFFfJe_Fwo&s=10" group-title="CANALES SI ESTABLES",DISNEY JR
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6KYIGgspye1bIPCCjvLJJrEn1MvquuGu8kqN22lD8wNZVplFFfJe_Fwo&s=10" group-title="CANALES SI ESTABLES",DISNEY JR OPCION 2
+http://152.231.29.139:8000/play/a0be/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_08/large.AztecaClic-2023oficial.png.1be432f69a8742739f367f7a7b1964e8.png" group-title="CANALES SI ESTABLES",CLIC
 https://azt-cl.otteravision.com/azt/cl/cl.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/Dvm8dAjrfdOOIuPZ8LBRk4JR7cIWmO7flgIDpEFLvA3oRxYST0ZnvJIeV2iaMv3MkJZu0QH9=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES SI ESTABLES",DISCOVERY CHANNEL
@@ -227,4 +227,6 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playl
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-25.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/cH4kYblOErtfBb83ogYYRJQuh6LZmYSfLlsP2jdnkBt8MBIYPvIWNKbPDKPrDQxkE19DWGle1mM=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES NO ESTABLES",CANAL LIFETIME
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/Lifetime.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Dr. Stone: Science Future",Dr. Stone: Science Future Episodio 31
+https://player.zilla-networks.com/m3u8/4f38f0abb466e54111033fa549c30cc6
 
