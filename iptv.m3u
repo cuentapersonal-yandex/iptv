@@ -1,99 +1,110 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNOoiDM4YaDQVeTBVGEg1THg1IP_s5aNLrig&s" group-title="CANALES DE TV",AZTECA UNO -1 HORA
-https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0cFLiuykM4l1FHbEokINOEZ9jYq1ylW0eumgW_BWWZg&s" group-title="CANALES DE TV",LAS ESTRELLAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0cFLiuykM4l1FHbEokINOEZ9jYq1ylW0eumgW_BWWZg&s" group-title="CANALES DE TV",LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vEOvdhpac95A3UyHkko82R6FQ1t3Aitl_SaUkmVxKrBpzfyzcYnoD66X&s=10" group-title="CANALES DE TV",IMAGEN TV+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0cFLiuykM4l1FHbEokINOEZ9jYq1ylW0eumgW_BWWZg&s" group-title="CANALES DE TV",LAS ESTRELLAS OP2
+http://200.35.176.154:8000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vEOvdhpac95A3UyHkko82R6FQ1t3Aitl_SaUkmVxKrBpzfyzcYnoD66X&s=10" group-title="CANALES DE TV",IMAGEN TV+
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-GdmThVE45ey6KgOpeG8i83vdDu8SL0Ozn91rhdTiJhM_i05fvudr4xfH2Z8YuY48VTWM0LI5Q=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",ADN NOTICIAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/-GdmThVE45ey6KgOpeG8i83vdDu8SL0Ozn91rhdTiJhM_i05fvudr4xfH2Z8YuY48VTWM0LI5Q=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",ADN NOTICIAS
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtunDk5y661f-W15axXUNBW1TU-AjJwaEHoV7tY5vL8g&s=10" group-title="CANALES DE TV",TELEMUNDO PUERTO RICO
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVK254jSpDOkq3p_xHYpBTfrcmHADbAfmuwQ34O7OTSg=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",PUNTO 2 PUERTO RICO
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZiTlV-W4VJNsYQ--QfZaA9xbZcrqyTpSWpVusJC4Sz92nvolSySlFw6V0&s=10" group-title="CANALES DE TV",A MAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP9PRUCMdt5Cj2xr1ujZVHsu9F0H6NYDinUg&s" group-title="CANALES DE TV",El 5
+http://200.35.176.154:8000/play/a067/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNOoiDM4YaDQVeTBVGEg1THg1IP_s5aNLrig&s" group-title="CANALES DE TV",AZTECA UNO -1 HORA
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprJaDiOTimHeQhesBF2t168HAUtaUI0HNDpO-fAnLNUzfegU5C4cMHMvh&s=10" group-title="CANALES DE TV",AZTECA 7
+http://200.35.176.154:8000/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZiTlV-W4VJNsYQ--QfZaA9xbZcrqyTpSWpVusJC4Sz92nvolSySlFw6V0&s=10" group-title="CANALES DE TV",A MAS
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/LywVFdz8ohpvvPE1eIt2jnRRjeAeSc1qEPwRCBIU3PLZ-8gn2gTwfUMb-4u2SuQOt3bxgvAbRg=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",AZTECA NORESTE
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/LywVFdz8ohpvvPE1eIt2jnRRjeAeSc1qEPwRCBIU3PLZ-8gn2gTwfUMb-4u2SuQOt3bxgvAbRg=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",AZTECA NORESTE
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/4fc786b7-431e-b879-d9cb-9bca44d62156/source/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/thumbnail.jpg" group-title="CANALES DE TV",AZTECA INTERNACIONAL
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/446FABE6-D80D-406D-9254-99DCBF06DE3D/3-1x1.png/900" group-title="CANALES DE TV",TELEMUNDO AL DIA
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtunDk5y661f-W15axXUNBW1TU-AjJwaEHoV7tY5vL8g&s=10" group-title="CANALES DE TV",TELEMUNDO PUERTO RICO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVK254jSpDOkq3p_xHYpBTfrcmHADbAfmuwQ34O7OTSg=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",PUNTO 2 PUERTO RICO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/446FABE6-D80D-406D-9254-99DCBF06DE3D/3-1x1.png/900" group-title="CANALES DE TV",TELEMUNDO AL DIA
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889469
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MQz5kxEXUHXQaHPoSAauzvY_qkviSBsRYuvpbtaKuZm-PSZaWkv2JBBqxlsSCK3Tn9knEOEA=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",TELEMUNDO CASO CERRADO
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/MQz5kxEXUHXQaHPoSAauzvY_qkviSBsRYuvpbtaKuZm-PSZaWkv2JBBqxlsSCK3Tn9knEOEA=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",TELEMUNDO CASO CERRADO
 https://lgcp-xumoent-ch836-ymp4e.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xs83xgGvmY_nhGK6Fmvn-KppLaLqP5df9Gg4-GPmoqjJM1VEj57riQED6PvjhLC2RITgbGFf8A=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",UNIVERSO CENTRO USA
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/xs83xgGvmY_nhGK6Fmvn-KppLaLqP5df9Gg4-GPmoqjJM1VEj57riQED6PvjhLC2RITgbGFf8A=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",UNIVERSO CENTRO USA
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_08/large.AztecaClic-2023oficial.png.1be432f69a8742739f367f7a7b1964e8.png" group-title="CANALES DE TV",CLIC
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/thumbnail.jpg" group-title="CANALES DE TV",AZTECA INTERNACIONAL
+https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/thumbnail.jpg" group-title="CANALES DE TV",AZTECA INTERNACIONAL OP2
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_08/large.AztecaClic-2023oficial.png.1be432f69a8742739f367f7a7b1964e8.png" group-title="CANALES DE TV",CLIC
 https://azt-cl.otteravision.com/azt/cl/cl.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/A6Zi31a2qAhnpKT-5KWUHOPPkdg9AVlUxSp-LbOUWiWW3IdLd9uTkNsloVile8F8KY_Zv-Ibuw=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/A6Zi31a2qAhnpKT-5KWUHOPPkdg9AVlUxSp-LbOUWiWW3IdLd9uTkNsloVile8F8KY_Zv-Ibuw=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",CARTOON NETWORK
 http://209.126.106.30:8081/live/b5f22885cedc40448e06e889317ebadc/80f9561f27444d00a27f123a7479e4d4/34.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/oFrAbWveSRbde-CXBK7IiZc82Jc66uUSJfG137_ur_du9m7bODrKQGdH0gYBmJTARtpvnYuh=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/oFrAbWveSRbde-CXBK7IiZc82Jc66uUSJfG137_ur_du9m7bODrKQGdH0gYBmJTARtpvnYuh=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",DISNEY CHANNEL
 http://209.126.106.30:8081/live/cfe348a284974881b7db90c338a05a09/f262025569a346b5900f3f9a7f963d46/36.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6KYIGgspye1bIPCCjvLJJrEn1MvquuGu8kqN22lD8wNZVplFFfJe_Fwo&s=10" group-title="CANALES DE TV",DISNEY JR
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6KYIGgspye1bIPCCjvLJJrEn1MvquuGu8kqN22lD8wNZVplFFfJe_Fwo&s=10" group-title="CANALES DE TV",DISNEY JR
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOvUnmJ8a4Rx6HltSoGH-YMwrx7p4EfvQ9yx2i4EwJzI-Ed3sUz_V-_2I&s=10" group-title="CANALES DE TV",TNT NOVELAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOvUnmJ8a4Rx6HltSoGH-YMwrx7p4EfvQ9yx2i4EwJzI-Ed3sUz_V-_2I&s=10" group-title="CANALES DE TV",TNT NOVELAS
 http://51.79.81.69:8080/live/ff1bb2e6a4044117b3304befef31b640/29967f2f03d542fd94e5887578bd1acf/58.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Dvm8dAjrfdOOIuPZ8LBRk4JR7cIWmO7flgIDpEFLvA3oRxYST0ZnvJIeV2iaMv3MkJZu0QH9=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/Dvm8dAjrfdOOIuPZ8LBRk4JR7cIWmO7flgIDpEFLvA3oRxYST0ZnvJIeV2iaMv3MkJZu0QH9=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",DISCOVERY CHANNEL
 http://209.126.106.30:8081/live/daa5bccb934c426991664aa193465ba0/dbd5534634e048bda82a569a1d65df74/46.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ntbqtsO51t1_wRNQEWv5Liy0cBfvwclIkd1rwCOB_9G1oD_d2wQmnD4ooep2xm527w5SrFcH=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ntbqtsO51t1_wRNQEWv5Liy0cBfvwclIkd1rwCOB_9G1oD_d2wQmnD4ooep2xm527w5SrFcH=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",ANIMAL PLANET
 http://209.126.106.30:8081/live/2974b649b79d4bc7a64f4e8637d69384/d2893114efb14fbdb0e333d4a04155b7/43.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB6DnMJ54WOKYR0iwroOIaUYrhZk-VuwGKdtFZOAbBTwVy8DOCAYm4vQUd&s=10" group-title="CANALES DE TV",INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB6DnMJ54WOKYR0iwroOIaUYrhZk-VuwGKdtFZOAbBTwVy8DOCAYm4vQUd&s=10" group-title="CANALES DE TV",INVESTIGATION DISCOVERY
 http://209.126.106.30:8081/live/4757ada4db09488e8b909a71b9af3b8d/2ee168e8cc864d32baee88eed347be4b/49.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/eDHY0vlnfXo54zY9mzT19nGFu3-3KBPv6dghDLj0WyMVxGSgD8UozY75YY85mV8DPQnm0QSrV6I=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/eDHY0vlnfXo54zY9mzT19nGFu3-3KBPv6dghDLj0WyMVxGSgD8UozY75YY85mV8DPQnm0QSrV6I=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",DISCOVERY TURBO
 http://209.126.106.30:8081/live/ec28fafc47544120aa0a1d3f050ba67f/d4755e72041443f0a9ea8d9186502130/48.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GC-FpT0nbV0nuF_QXKzaNHTV545TR1gQfULZaZOYgf58D8AfDxWanLlaQU366UKq44DadPMC=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/GC-FpT0nbV0nuF_QXKzaNHTV545TR1gQfULZaZOYgf58D8AfDxWanLlaQU366UKq44DadPMC=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",NATIONAL GEOGRAPHIC
 http://209.126.106.30:8081/live/a67cee5f36e245589629f002c292e354/c19dfce4e1b34123a947d1eacebbe85a/53.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqw-_N2EsapQlQE2Vqkit_oUkxB5BVmj2gS1xJgdL1fVKGPdYG1Ur7eY&s=10" group-title="CANALES DE TV",HISTORY
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqw-_N2EsapQlQE2Vqkit_oUkxB5BVmj2gS1xJgdL1fVKGPdYG1Ur7eY&s=10" group-title="CANALES DE TV",HISTORY
 http://209.126.106.30:8081/live/4f3071b953704551858c2702095f2e27/bc104f79cba940caa7a0559cf0995c11/52.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/3/36/History2_logo_%282022%29.png/revision/latest?cb=20240324192522&path-prefix=es" group-title="CANALES DE TV",HISTORY 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/3/36/History2_logo_%282022%29.png/revision/latest?cb=20240324192522&path-prefix=es" group-title="CANALES DE TV",HISTORY 2
 http://209.126.106.30:8081/live/b07c4fe99362449a88858787c081c770/00cd57a440704a7995a010ac49559720/51.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAYM7uTqyra52xVLdtUtJFqkmjvRX6qNQ2r4TtU5w1v6CnCRdwiMRVVhM&s=10" group-title="CANALES DE TV",A&E
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAYM7uTqyra52xVLdtUtJFqkmjvRX6qNQ2r4TtU5w1v6CnCRdwiMRVVhM&s=10" group-title="CANALES DE TV",A&E
 http://209.126.106.30:8081/live/68faebc604b142b5a51887896e9096f4/a57739f09f0c456a93f226039c5d449d/55.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5i9nRXPDjuoByUBZIs30NWCee8ODXaqGxRpR87yFXZLl01GBEU7RBQEyn&s=10" group-title="CANALES DE TV",AXN
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5i9nRXPDjuoByUBZIs30NWCee8ODXaqGxRpR87yFXZLl01GBEU7RBQEyn&s=10" group-title="CANALES DE TV",AXN
 http://209.126.106.30:8081/live/d0bf69ee5790423d9f377bde79ec0991/8bd2a9eaefbe48f897fb1d534812215d/57.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDOSH4jrr8QOLSkyNxX03PdREei6K5XNQV3W72yb6voXqJM3ZADjK-XFMS&s=10" group-title="CANALES DE TV",STAR CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDOSH4jrr8QOLSkyNxX03PdREei6K5XNQV3W72yb6voXqJM3ZADjK-XFMS&s=10" group-title="CANALES DE TV",STAR CHANNEL
 http://209.126.106.30:8081/live/2d6b62739e724ca4a4096ed8032dd566/dba9cece0fe64666ab568a1737a778c8/59.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1AH5I_bsXurbRV3SlEA4L-LCQRPv6UVY_olZWJfALQ5VCcFi_O8zASHby&s=10" group-title="CANALES DE TV",FX
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1AH5I_bsXurbRV3SlEA4L-LCQRPv6UVY_olZWJfALQ5VCcFi_O8zASHby&s=10" group-title="CANALES DE TV",FX
 http://209.126.106.30:8081/live/4a681dccf8e8424c8d709a1334967133/0391495a999e46b4905fafd55bde2e48/60.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOvzHPYGJ7cAveKI_dyZpxcZS3fpcjYOIcey6VL44LnpQvOXijYP0mgHaR&s=10" group-title="CANALES DE TV",SONY CINE
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOvzHPYGJ7cAveKI_dyZpxcZS3fpcjYOIcey6VL44LnpQvOXijYP0mgHaR&s=10" group-title="CANALES DE TV",SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/l3OG7K8u0Cjjfw3IkSfJaXs3VwtrQHev7c_BjJccE_9r9-DXoAkZMnXFM44rSjrPZMkfJ9yM0g=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",POPCORN CENTRAL
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/l3OG7K8u0Cjjfw3IkSfJaXs3VwtrQHev7c_BjJccE_9r9-DXoAkZMnXFM44rSjrPZMkfJ9yM0g=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",POPCORN CENTRAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16640
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuMI430A6ZJ06Zsg0tgMNbg6t12nlrnz92xW23gXY6_w&s=10" group-title="CANALES DE TV",TELERITMO
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuMI430A6ZJ06Zsg0tgMNbg6t12nlrnz92xW23gXY6_w&s=10" group-title="CANALES DE TV",TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-logo="https://static-ottera.com/prod/est/linear_channel/thumbnails/square/etv_-_1920x1920_1_0.jpg?DbKgZgiri8_a28ad7QgToHIH.PnoyZKW" group-title="CANALES DE TV",ESTRELLA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-686c4c6eb03d6c0e7b5e25a0.png?c=20260721" group-title="CANALES DE TV",AZTECA REGIONAL NEWS
+https://mdstrm.com/live-stream-playlist/686c4c6eb03d6c0e7b5e25a0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-ottera.com/prod/est/linear_channel/thumbnails/square/etv_-_1920x1920_1_0.jpg?DbKgZgiri8_a28ad7QgToHIH.PnoyZKW" group-title="CANALES DE TV",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-ottera.com/prod/est/linear_channel/thumbnails/square/en_vivo_placeholder-estrella_noticias.jpg?NvcsewNYrbQkT3MIOP8NazbVko9qOKOK" group-title="CANALES DE TV",ESTRELLA NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-ottera.com/prod/est/linear_channel/thumbnails/square/en_vivo_placeholder-estrella_noticias.jpg?NvcsewNYrbQkT3MIOP8NazbVko9qOKOK" group-title="CANALES DE TV",ESTRELLA NEWS
 https://estrellanews-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3XWJcVLtnySR7X4HQq2CAWOYlrJhLiBC1Uj2Zv_84jYCgeTDJ_J3b0hQ&s=10" group-title="CANALES DE TV",ESTRELLA GAMES
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3XWJcVLtnySR7X4HQq2CAWOYlrJhLiBC1Uj2Zv_84jYCgeTDJ_J3b0hQ&s=10" group-title="CANALES DE TV",ESTRELLA GAMES
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8?did=
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Q5WpzrqO7ys4uuHfGYdPgQ6JumvVWXyHzjIb2soFsbe6Sff8cozxVDw&s=10" group-title="CANALES DE TV",CINE ESTRELLA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Q5WpzrqO7ys4uuHfGYdPgQ6JumvVWXyHzjIb2soFsbe6Sff8cozxVDw&s=10" group-title="CANALES DE TV",CINE ESTRELLA TV
 https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/F358A202-36D3-44EE-A4B8-E0D08CE958A7/3-1x1.png/900" group-title="CANALES DE TV",TELEMUNDO NOTICIAS AHORA
+#EXTINF:-1 tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/F358A202-36D3-44EE-A4B8-E0D08CE958A7/3-1x1.png/900" group-title="CANALES DE TV",TELEMUNDO NOTICIAS AHORA
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8rX37YnF8QSNIy9NU9BM3jeBGbpq_VgEtFvwBOI7xA&s=10" group-title="CANALES DE TV",TELEMUNDO NOTICIAS FLORIDA
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8rX37YnF8QSNIy9NU9BM3jeBGbpq_VgEtFvwBOI7xA&s=10" group-title="CANALES DE TV",TELEMUNDO NOTICIAS FLORIDA
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991748/600x337.webp?type=channelTile" group-title="CANALES DE TV",TELEMUNDO ACCION
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99991748/600x337.webp?type=channelTile" group-title="CANALES DE TV",TELEMUNDO ACCION
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3JVtTeSLmWJqK36HTN34pQphH001pegSEa4aBb_vwdYVICcDv3eLHDnQ&s=10" group-title="CANALES DE TV",CORAZON
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3JVtTeSLmWJqK36HTN34pQphH001pegSEa4aBb_vwdYVICcDv3eLHDnQ&s=10" group-title="CANALES DE TV",CORAZON
 https://azt-cz.otteravision.com/azt/cz/cz.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1865067903856340992/OOIn0QXy.jpg" group-title="CANALES DE TV",TELEVISA TELENOVELAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1865067903856340992/OOIn0QXy.jpg" group-title="CANALES DE TV",TELEVISA TELENOVELAS
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkWldefj4zYsObPh5uPAnqCCgDR2t-qsIG3udL9H4JcxOyP5I73YiSuQc&s=10" group-title="CANALES DE TV",TODO NOVELAS MAS PASIONES
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkWldefj4zYsObPh5uPAnqCCgDR2t-qsIG3udL9H4JcxOyP5I73YiSuQc&s=10" group-title="CANALES DE TV",TODO NOVELAS MAS PASIONES
 https://amg00658-amg00658c93-canelatv-international-6082.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-todonovelasta-canelatvinternational/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZ6nZZFQU3SnNLXndUFDlPbLH7lpKjjCFR6KpCXEQ8Q&s=10" group-title="CANALES DE TV",VIVE KANAL D DRAMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZ6nZZFQU3SnNLXndUFDlPbLH7lpKjjCFR6KpCXEQ8Q&s=10" group-title="CANALES DE TV",VIVE KANAL D DRAMA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvbmFMRWRqPucW9C659xSACOWGA5DUHYObLgHzrX356w&s=10" group-title="CANALES DE TV",NOVELISIMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvbmFMRWRqPucW9C659xSACOWGA5DUHYObLgHzrX356w&s=10" group-title="CANALES DE TV",NOVELISIMA
 https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLBaxSr-a9_mTcISPT08UuuVmFKVpf7PfkCP4P_dgxFTwjrNz_DdabGojQ&s=10" group-title="CANALES DE TV",RCN MAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLBaxSr-a9_mTcISPT08UuuVmFKVpf7PfkCP4P_dgxFTwjrNz_DdabGojQ&s=10" group-title="CANALES DE TV",RCN MAS
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/07/mix_partnerassets_1000x1000_1.png" group-title="CANALES DE TV",CARACOL MIX
+#EXTINF:-1 tvg-id="" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2025/07/mix_partnerassets_1000x1000_1.png" group-title="CANALES DE TV",CARACOL MIX
 https://amg01433-amg01433c1-canelatv-international-8611.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5T4csOAaP6R5iaySFnCxOzHgK-zaYVXss_JqMrB5RCULvjE0fU-NsIT8Z&s=10" group-title="CANALES DE TV",HISTORIA
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5T4csOAaP6R5iaySFnCxOzHgK-zaYVXss_JqMrB5RCULvjE0fU-NsIT8Z&s=10" group-title="CANALES DE TV",HISTORIA
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DsWfoZje_9MfLTahptg8On5vBXJLGams13v8gvJQig&s=10" group-title="CANALES DE TV",AMC EN ESPAÑOL
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DsWfoZje_9MfLTahptg8On5vBXJLGams13v8gvJQig&s=10" group-title="CANALES DE TV",AMC EN ESPAÑOL
 https://amc-amcespanol-1-us.tablo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8PPqvVl-ku7bPLe7DUQaDGOAat9l_sW3wvb_Pzkjw9g&s=10" group-title="CANALES DE TV",NATURALEZA SALVAJE
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8PPqvVl-ku7bPLe7DUQaDGOAat9l_sW3wvb_Pzkjw9g&s=10" group-title="CANALES DE TV",NATURALEZA SALVAJE
 https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f2c45d_5e41cb7336f240a3ac172d69927fd5ca~mv2.png/v1/fill/w_228,h_228,al_c,q_85,enc_avif,quality_auto/f2c45d_5e41cb7336f240a3ac172d69927fd5ca~mv2.png" group-title="CANALES DE TV",TRACE LATINA
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/f2c45d_5e41cb7336f240a3ac172d69927fd5ca~mv2.png/v1/fill/w_228,h_228,al_c,q_85,enc_avif,quality_auto/f2c45d_5e41cb7336f240a3ac172d69927fd5ca~mv2.png" group-title="CANALES DE TV",TRACE LATINA
 https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
+
