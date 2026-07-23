@@ -7,12 +7,14 @@ http://200.35.176.154:8000/play/a03j/index.m3u8
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/-GdmThVE45ey6KgOpeG8i83vdDu8SL0Ozn91rhdTiJhM_i05fvudr4xfH2Z8YuY48VTWM0LI5Q=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",ADN NOTICIAS
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP9PRUCMdt5Cj2xr1ujZVHsu9F0H6NYDinUg&s" group-title="CANALES DE TV",EL 5
-http://45.181.87.106/CANAL5HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP9PRUCMdt5Cj2xr1ujZVHsu9F0H6NYDinUg&s" group-title="CANALES DE TV",El 5 OP2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP9PRUCMdt5Cj2xr1ujZVHsu9F0H6NYDinUg&s" group-title="CANALES DE TV",El 5
 http://200.35.176.154:8000/play/a067/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP9PRUCMdt5Cj2xr1ujZVHsu9F0H6NYDinUg&s" group-title="CANALES DE TV",EL 5 -1 HORA
+http://45.181.87.106/CANAL5HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprJaDiOTimHeQhesBF2t168HAUtaUI0HNDpO-fAnLNUzfegU5C4cMHMvh&s=10" group-title="CANALES DE TV",AZTECA 7
 http://200.35.176.154:8000/play/a064/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvjupjw2GF4HkwHHjZi3bkTr6ysCG9wHB500r3ImgQhNa3ryOcqfruHQ&s=10" group-title="CANALES DE TV",UNIMAS ESTE
+http://168.228.44.241:9997/play/a09e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZiTlV-W4VJNsYQ--QfZaA9xbZcrqyTpSWpVusJC4Sz92nvolSySlFw6V0&s=10" group-title="CANALES DE TV",A MAS
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/LywVFdz8ohpvvPE1eIt2jnRRjeAeSc1qEPwRCBIU3PLZ-8gn2gTwfUMb-4u2SuQOt3bxgvAbRg=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",AZTECA NORESTE
