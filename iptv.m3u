@@ -35,8 +35,10 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/thumbnail.jpg" group-title="CANALES DE TV",AZTECA INTERNACIONAL OP2
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0aEppsRZbeL5v-S26r5Sk9RbuNgbGpFijVzdtfi3xXMwHIl1SNIKrZX8&s=10" group-title="CANALES DE TV",LAS ESTRELLAS LATINOAMERICA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0aEppsRZbeL5v-S26r5Sk9RbuNgbGpFijVzdtfi3xXMwHIl1SNIKrZX8&s=10" group-title="CANALES DE TV",LAS ESTRELLAS LATINOAMÉRICA
 https://cablered.iptvperu.tv:1936/cablered/estrellas-srt_new/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfFXUZoPxyaNJP4g7yoynsSrcL_ZSTt2pU0LHkOLmv8g&s=10" group-title="CANALES DE TV",UNIVISION LATINOAMÉRICA
+https://cablered.iptvperu.tv:1936/cablered/univision-srt_new/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_08/large.AztecaClic-2023oficial.png.1be432f69a8742739f367f7a7b1964e8.png" group-title="CANALES DE TV",CLIC
 https://azt-cl.otteravision.com/azt/cl/cl.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEDIsKH8LSq0BIKJI4O2dSJ142tAO8MNANYaubgEBQ1w&s=10" group-title="CANALES DE TV",BABYFIRST
