@@ -45,6 +45,8 @@ https://azt-cl.otteravision.com/azt/cl/cl.m3u8
 https://streamer.metronethn.com/BabyFirst/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCA-93rHM5_ZpFuOGbtUg4MiCqM6IvSqfMUqUVZ-S8w&s=10" group-title="CANALES DE TV",BABY TV
 https://streamer.metronethn.com/BabyTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/plim-plim-tv/images/4/4b/Large.ElCanaldelPayasoPlimPlim%282023-%29.png.86c6cbf2fc741312e0c244f84eec14e6.png/revision/latest?cb=20250906030459" group-title="CANALES DE TV",PLIM PLIM TV
+http://8.243.126.131:8000/play/a0od/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3C02TkCbsUK72Z_alu1k7lh4obk_8_H_pwPP2ObJiJw&s=10" group-title="CANALES DE TV",CARTOONITO
 https://streamer.metronethn.com/Cartoonito/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/pawpatrol/images/c/cf/399724364_748280287345128_3329175729896242901_n.jpg/revision/latest?cb=20240402230046&path-prefix=es" group-title="CANALES DE TV",NICK JR.
@@ -53,6 +55,10 @@ https://streamer.metronethn.com/NickJr/index.m3u8
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/zGYfNoit3x49Jhg3e_JEDQa-KVxXyRNvuX3jpp1_prJ-ENIoIhPtGvIji8leExpRUO7nY0JjzA=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",DISCOVERY KIDS
 https://streamer.metronethn.com/DiscoveryKids/index.m3u8
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/08/Dreamworks-Icon-Logo-Vector.svg-.png" group-title="CANALES DE TV",DREAMWORKS CHANNEL
+http://138.121.15.230:9002/DREAMWORKS/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMF-MdO5UQxKASziedXEIb-NPf36A9tRV5dzIcDXRdvg&s=10" group-title="CANALES DE TV",FUNBOX
+http://186.148.196.100:8000/play/a00d
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/A6Zi31a2qAhnpKT-5KWUHOPPkdg9AVlUxSp-LbOUWiWW3IdLd9uTkNsloVile8F8KY_Zv-Ibuw=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",CARTOON NETWORK
 https://streamer.metronethn.com/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6761610000517448c209065ea0afd328c8d43e" group-title="CANALES DE TV",NICKELODEON
@@ -63,6 +69,8 @@ https://streamer.metronethn.com/DisneyChannel/index.m3u8
 https://streamer.metronethn.com/BitMe/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7EBczCIEQVUhZrnX-vGRNvP1-1LiCEjc7DU4-di-h-FBMLKlUKRpZoirybrhWpDIs1usgicxZg=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",ADULT SWIM
 https://streamer.metronethn.com/AdultSwim/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE3ELU92Nv6nBgMeXE_RZ958D8TA2AVeGh8lmVrnW9ow&s=10" group-title="CANALES DE TV",ETC
+http://181.119.93.83:8000/play/a217/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9ZzK3SkRTIkCsuFfpw5QAjzhXXnrCNlcrCuvCE08G4bjJYXCIrkdGKgiBLASmu8F-CNoqxmopg=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",DISTRITO COMEDIA
 https://streamer.metronethn.com/DistritoComedia/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyPSCvbJrvWpnpMD7-eYUTxeC5V1Q0_UL-pO9TKH111A50TF-rEa5WxGU&s=10" group-title="CANALES DE TV",COMEDY CENTRAL
@@ -179,3 +187,5 @@ https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tra
 https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUKkmoVy_db_vYmUrzgIpSdrZKat4pWLPepwJjCQfMwg&s=10" group-title="CANALES DE TV",TUDN
 https://streamer.metronethn.com/TUDN/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlfvdT0ER-iJ6vW1d9MHhtbyhdnXvxX5lGLAe5_OL0CQ&s=10" group-title="CANALES DE TV",¡HOLA! TV
+http://8.243.126.131:8000/play/a0fg/index.m3u8
