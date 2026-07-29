@@ -30,7 +30,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVK254jSpDOkq3p_xHYpBTfrcmHADbAfmuwQ34O7OTSg=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",PUNTO 2 PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Hzdg_f32fDxyyZaUKgbnCTnzQUbrOZzwZZ00DsP-ahGNjfUC171RiSI&s=10" group-title="CANALES DE TV",TELEMUNDO INTERNACIONAL
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telemundo.stream/playlist.m3u8
+http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/446FABE6-D80D-406D-9254-99DCBF06DE3D/3-1x1.png/900" group-title="CANALES DE TV",TELEMUNDO AL DÍA
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889469
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/MQz5kxEXUHXQaHPoSAauzvY_qkviSBsRYuvpbtaKuZm-PSZaWkv2JBBqxlsSCK3Tn9knEOEA=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",TELEMUNDO CASO CERRADO
@@ -87,16 +87,22 @@ https://streamer.metronethn.com/MTV/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8?did=
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Dvm8dAjrfdOOIuPZ8LBRk4JR7cIWmO7flgIDpEFLvA3oRxYST0ZnvJIeV2iaMv3MkJZu0QH9=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",DISCOVERY CHANNEL
 https://streamer.metronethn.com/Discovery/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ntbqtsO51t1_wRNQEWv5Liy0cBfvwclIkd1rwCOB_9G1oD_d2wQmnD4ooep2xm527w5SrFcH=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXUpFwHiZurBF5KNQvRa9HBw1xtGvi_0ZjFPHeJUWoGcWwDtBTCLCamnT-&s=10" group-title="CANALES DE TV",ANIMAL PLANET
 https://streamer.metronethn.com/AnimalPlanet/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB6DnMJ54WOKYR0iwroOIaUYrhZk-VuwGKdtFZOAbBTwVy8DOCAYm4vQUd&s=10" group-title="CANALES DE TV",ID DISCOVERY
 https://streamer.metronethn.com/DiscoveryID/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/eDHY0vlnfXo54zY9mzT19nGFu3-3KBPv6dghDLj0WyMVxGSgD8UozY75YY85mV8DPQnm0QSrV6I=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",DISCOVERY TURBO
 http://209.126.106.30:8081/live/ec28fafc47544120aa0a1d3f050ba67f/d4755e72041443f0a9ea8d9186502130/48.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2.storage.foromedios.com/original/3X/1/f/1f069812fb3fe521d42bfa2219cfe08eb45d5629.jpeg" group-title="CANALES DE TV",DISCOVERY SCIENCE
+https://streamer.metronethn.com/DiscoveryScience/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKVFssr74mMpBOqfG4PFJxzaARUHxFPb90vrMrWZlRxA&s=10" group-title="CANALES DE TV",TLC
 https://streamer.metronethn.com/TLC/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/R9LgskhvwzY6ukALWnH983PEy_fRpDN__rtAzZPKxV3XbXeG7JSXGRz0iwmYjCT6_ZxSKxlIpg=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",DISCOVERY H&H
 http://200.35.176.154:8000/play/a0rb/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlj5z1_pSm9lww3G11szW-gBdTiG1ZZDc45vU71FcAtQ&s=10" group-title="CANALES DE TV",FOOD NETWORK
+http://179.1.199.50:9000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPoLyZwfBpX4s_WXNBrwd1Nm6CJkUrnnQmTV7SX0iuqQ&s=10" group-title="CANALES DE TV",HGTV
+https://streamer.metronethn.com/HGTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnHVFmYzn-x2_ecNQJ56_xc6yjaLFqebMNvH29sMdFUqRZI8WJY_f5tVc&s=10" group-title="CANALES DE TV",DISCOVERY WORLD
 https://streamer.metronethn.com/DiscoveryWorld/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHM0s34qRaUWoTgUbzaxP3I3QPDsBhjxroqY7cylc7XQ&s=10" group-title="CANALES DE TV",DISCOVERY THEATER
@@ -105,6 +111,8 @@ https://streamer.metronethn.com/DiscoveryTheater/index.m3u8
 http://209.126.106.30:8081/live/a67cee5f36e245589629f002c292e354/c19dfce4e1b34123a947d1eacebbe85a/53.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8PPqvVl-ku7bPLe7DUQaDGOAat9l_sW3wvb_Pzkjw9g&s=10" group-title="CANALES DE TV",NATURALEZA SALVAJE
 https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIi1JiM0oKuLOjFdg7kE2dOA1gQLJmBiUsMd9hRE_Z_Q&s=10" group-title="CANALES DE TV",ELGOURMET
+http://177.234.249.178:8888/EL-GOURMET/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5T4csOAaP6R5iaySFnCxOzHgK-zaYVXss_JqMrB5RCULvjE0fU-NsIT8Z&s=10" group-title="CANALES DE TV",HISTORIA
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqw-_N2EsapQlQE2Vqkit_oUkxB5BVmj2gS1xJgdL1fVKGPdYG1Ur7eY&s=10" group-title="CANALES DE TV",HISTORY
@@ -115,6 +123,18 @@ http://209.126.106.30:8081/live/b07c4fe99362449a88858787c081c770/00cd57a440704a7
 http://138.121.15.230:9002/A&E/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN-wwCH_obBiYYydH0PD4saXvHYq89-X8mcy5VC09fEw&s=10" group-title="CANALES DE TV",LIFETIME
 https://streamer.metronethn.com/Lifetime/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26KTkJJYT72qFcVBaaKuv_S4ngnuaIeNOFRXvNEmA6WWOmgsvHFYAtO8&s=10" group-title="CANALES DE TV",E!
+http://72.1.184.5:8089/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Q5WpzrqO7ys4uuHfGYdPgQ6JumvVWXyHzjIb2soFsbe6Sff8cozxVDw&s=10" group-title="CANALES DE TV",CINE ESTRELLA TV
+https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/l3OG7K8u0Cjjfw3IkSfJaXs3VwtrQHev7c_BjJccE_9r9-DXoAkZMnXFM44rSjrPZMkfJ9yM0g=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",POPCORN CENTRAL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16640
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8S8njiw7-IRrS1SM3B3tU2BaJ1WPMWClruzlMZ1-8CUOd7JAzxG5NxdgG&s=10" group-title="CANALES DE TV",DE PELÍCULA
+https://cablered.iptvperu.tv:1936/cablered/depelicula-srt_new/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUkvg8f1x045-Ak7MO0Z1jeCM4by3KsLrk5lll9i1K4aJqeH0EBh4L5Jq&s=10" group-title="CANALES DE TV",GOLDEN
+https://streamer.metronethn.com/Golden/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTI2f9I29YNZiVst2MUniGRKkjMYo8b6N7oqxCs85m8dEbFrI9oPJm1No&s=10" group-title="CANALES DE TV",GOLDEN EDGE
+https://streamer.metronethn.com/GoldenEdge/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5i9nRXPDjuoByUBZIs30NWCee8ODXaqGxRpR87yFXZLl01GBEU7RBQEyn&s=10" group-title="CANALES DE TV",AXN
 http://209.126.106.30:8081/live/d0bf69ee5790423d9f377bde79ec0991/8bd2a9eaefbe48f897fb1d534812215d/57.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/XH0SRbxBdzw7aqidgH6ZM3Up6rXAc87wp3dogbf1wpoZk_wafYdbDN-b8QhAulNcpmJ3LCubwHo=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",SONY CHANNEL
@@ -123,6 +143,12 @@ http://138.121.15.230:9002/SONY/index.m3u8
 https://streamer.metronethn.com/SonyMovies/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOvzHPYGJ7cAveKI_dyZpxcZS3fpcjYOIcey6VL44LnpQvOXijYP0mgHaR&s=10" group-title="CANALES DE TV",SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DsWfoZje_9MfLTahptg8On5vBXJLGams13v8gvJQig&s=10" group-title="CANALES DE TV",AMC EN ESPAÑOL
+https://amc-amcespanol-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJz1NhvWuKNK0XSEmc-zxgId2gU7nITyeAHSKOMUd2apjawbkeGFlcXUs&s=10" group-title="CANALES DE TV",AMC
+https://streamer.metronethn.com/AMC/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/p1pkpkfJ1QjVfFRcTQlUMzdyyLZ9iD2QoNlPIg1-QJKs2uArkwGJqFt0tetiB6W_VVAeXz8e=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",DHE
+https://streamer.metronethn.com/DHE/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJfLQbMW8njnZQ6TsChSs9syrsxPmvrSY93BR_2CdHdbCDI8FFqSfQiL8&s=10" group-title="CANALES DE TV",UNIVERSAL
 https://streamer.metronethn.com/Universal/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMfq3iT6ZviGnKn71WMGpPvAmDBAy83XbgntKF7mpq2UtbV4TURF4B_pc&s=10" group-title="CANALES DE TV",USA
@@ -145,22 +171,8 @@ https://streamer.metronethn.com/Space/index.m3u8
 https://streamer.metronethn.com/Warner/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnk6CvH1m-VUDW86mRWog8ICC4q7kO_R-JREqeUG1fi8fyrFzDl3Jw0vQC&s=10" group-title="CANALES DE TV",TCM
 https://streamer.metronethn.com/TCM/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJz1NhvWuKNK0XSEmc-zxgId2gU7nITyeAHSKOMUd2apjawbkeGFlcXUs&s=10" group-title="CANALES DE TV",AMC
-https://streamer.metronethn.com/AMC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DsWfoZje_9MfLTahptg8On5vBXJLGams13v8gvJQig&s=10" group-title="CANALES DE TV",AMC EN ESPAÑOL
-https://amc-amcespanol-1-us.tablo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/p1pkpkfJ1QjVfFRcTQlUMzdyyLZ9iD2QoNlPIg1-QJKs2uArkwGJqFt0tetiB6W_VVAeXz8e=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",DHE
-https://streamer.metronethn.com/DHE/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUkvg8f1x045-Ak7MO0Z1jeCM4by3KsLrk5lll9i1K4aJqeH0EBh4L5Jq&s=10" group-title="CANALES DE TV",GOLDEN
-https://streamer.metronethn.com/Golden/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTI2f9I29YNZiVst2MUniGRKkjMYo8b6N7oqxCs85m8dEbFrI9oPJm1No&s=10" group-title="CANALES DE TV",GOLDEN EDGE
-https://streamer.metronethn.com/GoldenEdge/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8S8njiw7-IRrS1SM3B3tU2BaJ1WPMWClruzlMZ1-8CUOd7JAzxG5NxdgG&s=10" group-title="CANALES DE TV",DE PELÍCULA
-https://cablered.iptvperu.tv:1936/cablered/depelicula-srt_new/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/l3OG7K8u0Cjjfw3IkSfJaXs3VwtrQHev7c_BjJccE_9r9-DXoAkZMnXFM44rSjrPZMkfJ9yM0g=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",POPCORN CENTRAL
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16640
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Q5WpzrqO7ys4uuHfGYdPgQ6JumvVWXyHzjIb2soFsbe6Sff8cozxVDw&s=10" group-title="CANALES DE TV",CINE ESTRELLA TV
-https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP5LVxGGnW0PWLMDnsxEfQm1NUTfQ52WOSR_Svchb7oHnXoCPaAIcL6Tk&s=10" group-title="CANALES DE TV",CINEMAX
+http://179.1.199.50:9000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCM023kmEw0n0zDLyMuGIbJMprfCQ-h3KdJos8wJQW65OrnuzM3yeZFQk&s=10" group-title="CANALES DE TV",HBO
 https://streamer.metronethn.com/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMGrbn6FisBzoc-u8gajySbsKUm7UJ93B0ga2h2lg_-g&s=10" group-title="CANALES DE TV",HBO2
@@ -171,10 +183,22 @@ https://streamer.metronethn.com/HBOPlus/index.m3u8
 https://streamer.metronethn.com/HBOFamily/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu6EIfzyPaprGs2o666yJWH31dvOW1j_2eZ72uOrbaDA&s=10" group-title="CANALES DE TV",HBO XTREME
 https://streamer.metronethn.com/HBOXtreme/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2NA4cBE9TuyYCYqJxocwQXVyyDoHMzychTqqaPiRFbw&s=10" group-title="CANALES DE TV",HBO MUNDI
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinemax.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTppNozbUZPNlQwoPwNB5SozrjaHT4DhpOwTthse-2qnw&s=10" group-title="CANALES DE TV",HBO POP
+http://179.1.199.50:9000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTigzh6QU1e6TEx8SNLbYEzQ1-XoyjXmudpyIzT9FUljg&s=10" group-title="CANALES DE TV",UNIVERSAL PREMIERE
+http://200.35.176.154:8000/play/a0rg/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX8j90-FjDvWXVE0GxFPGr9GcUU6NnAEYm21t07lWzpA&s=10" group-title="CANALES DE TV",UNIVERSAL CINEMA
+https://streamer.metronethn.com/UniversalCinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://dev.vertvcable.com/wp-content/uploads/2022/07/universalcomedy.jpg" group-title="CANALES DE TV",UNIVERSAL COMEDY
+https://streamer.metronethn.com/UniversalComedy/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt-24IoscMrToC00QqwuY2TEweLVUxxgi6FszkC2zxhw&s=10" group-title="CANALES DE TV",UNIVERSAL REALITY
+https://streamer.metronethn.com/UniversalReality/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToigoTJ8UKarWi-kCOawwU8L7MJwwYWUEomvdCiRRteA&s=10" group-title="CANALES DE TV",UNIVERSAL CRIME
+https://streamer.metronethn.com/UniversalCrime/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOvUnmJ8a4Rx6HltSoGH-YMwrx7p4EfvQ9yx2i4EwJzI-Ed3sUz_V-_2I&s=10" group-title="CANALES DE TV",TNT NOVELAS
 http://51.79.81.69:8080/live/ff1bb2e6a4044117b3304befef31b640/29967f2f03d542fd94e5887578bd1acf/58.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/czxQxYU7hERMABPcpl6ayjo5NvzNcWjj9bKRdr6UbMZqdbF0QR998JZoO63y_hSHR7eb3B1PGw=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",PASIONES
+https://streamer.metronethn.com/Pasiones/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vSdFaqiU29F7hsmyfYnIGnJsjGJMWIknEwZhU_uRewDt4gANfmgO7tshMVnEUlPq2q4pcstZmUU=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",TLNOVELAS
 https://streamer.metronethn.com/TLNovelas/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3JVtTeSLmWJqK36HTN34pQphH001pegSEa4aBb_vwdYVICcDv3eLHDnQ&s=10" group-title="CANALES DE TV",CORAZÓN
