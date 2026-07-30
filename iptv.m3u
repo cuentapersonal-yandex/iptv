@@ -151,6 +151,8 @@ https://cablered.iptvperu.tv:1936/cablered/depelicula-srt_new/playlist.m3u8
 https://streamer.metronethn.com/Golden/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTI2f9I29YNZiVst2MUniGRKkjMYo8b6N7oqxCs85m8dEbFrI9oPJm1No&s=10" group-title="CANALES DE TV",GOLDEN EDGE
 https://streamer.metronethn.com/GoldenEdge/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvhMol_oHrmSYAleG49677saJVYkV4FeNtt-moGisn_fkWFYdfXvCzjA&s=10" group-title="CANALES DE TV",GOLDEN PLUS
+http://177.234.249.135:8888/GoldenPlus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5i9nRXPDjuoByUBZIs30NWCee8ODXaqGxRpR87yFXZLl01GBEU7RBQEyn&s=10" group-title="CANALES DE TV",AXN
 http://209.126.106.30:8081/live/d0bf69ee5790423d9f377bde79ec0991/8bd2a9eaefbe48f897fb1d534812215d/57.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/XH0SRbxBdzw7aqidgH6ZM3Up6rXAc87wp3dogbf1wpoZk_wafYdbDN-b8QhAulNcpmJ3LCubwHo=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",SONY CHANNEL
@@ -223,6 +225,8 @@ http://51.79.81.69:8080/live/ff1bb2e6a4044117b3304befef31b640/29967f2f03d542fd94
 https://streamer.metronethn.com/Pasiones/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vSdFaqiU29F7hsmyfYnIGnJsjGJMWIknEwZhU_uRewDt4gANfmgO7tshMVnEUlPq2q4pcstZmUU=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",TLNOVELAS
 https://streamer.metronethn.com/TLNovelas/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCWE0qrhV3LDM5Q43ZDP3OvHuTVsLYiCEasaPeNhDFgg&s=10" group-title="CANALES DE TV",RCN NOVELAS
+https://streamer.metronethn.com/RCNNovelas/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRH1fMk-aHqO6Wp7WEI5XWxWW0baygA_jv9UUcWaadMg&s=10" group-title="CANALES DE TV",AZTECA CORAZÓN
 http://200.35.176.154:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3JVtTeSLmWJqK36HTN34pQphH001pegSEa4aBb_vwdYVICcDv3eLHDnQ&s=10" group-title="CANALES DE TV",CORAZÓN
@@ -295,7 +299,3 @@ http://177.234.249.135:8888/Adrenalina/index.m3u8
 https://streamer.metronethn.com/TUDN/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OuKve41J-tBfaAWWfruNhofwhO3xCqMwwCHDSGWfPJasAeuLh7UoZweSMU57BsrHcnMumUbVEw=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",TUDN USA
 http://168.228.44.241:9997/play/a09i/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqvhMol_oHrmSYAleG49677saJVYkV4FeNtt-moGisn_fkWFYdfXvCzjA&s=10" group-title="CANALES DE TV",GOLDEN PLUS
-http://177.234.249.135:8888/GoldenPlus/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCWE0qrhV3LDM5Q43ZDP3OvHuTVsLYiCEasaPeNhDFgg&s=10" group-title="CANALES DE TV",RCN NOVELAS
-https://streamer.metronethn.com/RCNNovelas/index.m3u8
