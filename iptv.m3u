@@ -26,7 +26,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVK254jSpDOkq3p_xHYpBTfrcmHADbAfmuwQ34O7OTSg=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",PUNTO 2 PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Hzdg_f32fDxyyZaUKgbnCTnzQUbrOZzwZZ00DsP-ahGNjfUC171RiSI&s=10" group-title="CANALES DE TV",TELEMUNDO INTERNACIONAL
-http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+http://200.35.176.154:8000/play/a0qy/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Hzdg_f32fDxyyZaUKgbnCTnzQUbrOZzwZZ00DsP-ahGNjfUC171RiSI&s=10" group-title="CANALES DE TV",TELEMUNDO INTERNACIONAL OP2
 http://190.60.46.156:8089/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/446FABE6-D80D-406D-9254-99DCBF06DE3D/3-1x1.png/900" group-title="CANALES DE TV",TELEMUNDO AL DÍA
