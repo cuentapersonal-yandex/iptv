@@ -71,6 +71,8 @@ http://200.35.176.154:8000/play/a04n/index.m3u8
 http://200.35.176.154:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9ZzK3SkRTIkCsuFfpw5QAjzhXXnrCNlcrCuvCE08G4bjJYXCIrkdGKgiBLASmu8F-CNoqxmopg=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",DISTRITO COMEDIA
 https://cablered.iptvperu.tv:1936/cablered/distritocomedia-srt_new/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK9ftTTB3eDp8feoJt41tx7v2UDDB-4svBQukKg9GSUg&s=10" group-title="CANALES DE TV",EL CHAVO TV
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyPSCvbJrvWpnpMD7-eYUTxeC5V1Q0_UL-pO9TKH111A50TF-rEa5WxGU&s=10" group-title="CANALES DE TV",COMEDY CENTRAL
 https://streamer.metronethn.com/ComedyCentral/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bAArAE1YfRVshGhbRA9KCEDD9aeXOBTd0I1fgJNpy5PDajDiL1mTNJnh0pA5dP0ms8vgR41Y6A=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",MTV
