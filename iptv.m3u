@@ -5,8 +5,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://cablered.iptvperu.tv:1936/cablered/estrellas-srt_new/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vEOvdhpac95A3UyHkko82R6FQ1t3Aitl_SaUkmVxKrBpzfyzcYnoD66X&s=10" group-title="CANALES DE TV",IMAGEN TV+
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP9PRUCMdt5Cj2xr1ujZVHsu9F0H6NYDinUg&s" group-title="CANALES DE TV",EL 5 (-1 HORA)
-http://45.181.87.106/CANAL5HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP9PRUCMdt5Cj2xr1ujZVHsu9F0H6NYDinUg&s" group-title="CANALES DE TV",EL 5
+http://200.35.176.154:8000/play/a067/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNOoiDM4YaDQVeTBVGEg1THg1IP_s5aNLrig&s" group-title="CANALES DE TV",AZTECA UNO (-1 HORA)
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprJaDiOTimHeQhesBF2t168HAUtaUI0HNDpO-fAnLNUzfegU5C4cMHMvh&s=10" group-title="CANALES DE TV",AZTECA 7
@@ -22,7 +22,7 @@ http://168.228.44.241:9997/play/a09d/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvjupjw2GF4HkwHHjZi3bkTr6ysCG9wHB500r3ImgQhNa3ryOcqfruHQ&s=10" group-title="CANALES DE TV",UNIMÁS ESTE
 http://168.228.44.241:9997/play/a09e/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61CHwLiEnnL.png" group-title="CANALES DE TV",TELEMUNDO ESTE
-https://streamer.metronethn.com/Telemundo/index.m3u8
+http://200.35.176.154:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtunDk5y661f-W15axXUNBW1TU-AjJwaEHoV7tY5vL8g&s=10" group-title="CANALES DE TV",TELEMUNDO PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVK254jSpDOkq3p_xHYpBTfrcmHADbAfmuwQ34O7OTSg=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",PUNTO 2 PUERTO RICO
