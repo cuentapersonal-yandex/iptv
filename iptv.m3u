@@ -6,7 +6,7 @@ https://cablered.iptvperu.tv:1936/cablered/estrellas-srt_new/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vEOvdhpac95A3UyHkko82R6FQ1t3Aitl_SaUkmVxKrBpzfyzcYnoD66X&s=10" group-title="CANALES DE TV",IMAGEN TV+
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP9PRUCMdt5Cj2xr1ujZVHsu9F0H6NYDinUg&s" group-title="CANALES DE TV",EL 5
-http://200.35.176.154:8000/play/a067/index.m3u8
+http://45.5.118.152:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNOoiDM4YaDQVeTBVGEg1THg1IP_s5aNLrig&s" group-title="CANALES DE TV",AZTECA UNO (-1 HORA)
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprJaDiOTimHeQhesBF2t168HAUtaUI0HNDpO-fAnLNUzfegU5C4cMHMvh&s=10" group-title="CANALES DE TV",AZTECA 7
@@ -22,7 +22,7 @@ http://168.228.44.241:9997/play/a09d/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvjupjw2GF4HkwHHjZi3bkTr6ysCG9wHB500r3ImgQhNa3ryOcqfruHQ&s=10" group-title="CANALES DE TV",UNIMÁS ESTE
 http://168.228.44.241:9997/play/a09e/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61CHwLiEnnL.png" group-title="CANALES DE TV",TELEMUNDO ESTE
-http://200.35.176.154:8000/play/a05y/index.m3u8
+https://streamer.metronethn.com/Telemundo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtunDk5y661f-W15axXUNBW1TU-AjJwaEHoV7tY5vL8g&s=10" group-title="CANALES DE TV",TELEMUNDO PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVK254jSpDOkq3p_xHYpBTfrcmHADbAfmuwQ34O7OTSg=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",PUNTO 2 PUERTO RICO
@@ -215,7 +215,7 @@ https://cablered.iptvperu.tv:1936/cablered/tlnovelas-srt_new/playlist.m3u8
 https://streamer.metronethn.com/RCNNovelas/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRH1fMk-aHqO6Wp7WEI5XWxWW0baygA_jv9UUcWaadMg&s=10" group-title="CANALES DE TV",AZTECA CORAZÓN
 http://200.35.176.154:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3JVtTeSLmWJqK36HTN34pQphH001pegSEa4aBb_vwdYVICcDv3eLHDnQ&s=10" group-title="CANALES DE TV",CORAZÓN
+#EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/MXBB2600011DG_20260818T060756SQUARE.png&h=250" group-title="CANALES DE TV",LATIDOS
 https://azt-cz.otteravision.com/azt/cz/cz.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1865067903856340992/OOIn0QXy.jpg" group-title="CANALES DE TV",TELEVISA TELENOVELAS
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
@@ -261,7 +261,7 @@ https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kjd7fOqZpNq7ZoTMWOJEYEoG91eA6DQi0edlTBl0qsZQ=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",TELEMUNDO CORPUS CHRISTI
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_08/large.AztecaClic-2023oficial.png.1be432f69a8742739f367f7a7b1964e8.png" group-title="CANALES DE TV",CLIC
+#EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/MXBB2600010J2_20260818T060751SQUARE.png&h=250" group-title="CANALES DE TV",CONECTA
 https://azt-cl.otteravision.com/azt/cl/cl.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static-ottera.com/prod/est/linear_channel/thumbnails/square/etv_-_1920x1920_1_0.jpg?DbKgZgiri8_a28ad7QgToHIH.PnoyZKW" group-title="CANALES DE TV",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
@@ -277,3 +277,5 @@ https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 https://streamer.metronethn.com/TUDN/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OuKve41J-tBfaAWWfruNhofwhO3xCqMwwCHDSGWfPJasAeuLh7UoZweSMU57BsrHcnMumUbVEw=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",TUDN USA
 http://168.228.44.241:9997/play/a09i/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB1r88rqLQTHK-54O4LK_op7jNaSyLfudsyY1ThgwTVodRGNxNR1atn7E&s=10" group-title="CANALES DE TV",AZTECA DEPORTES NETWORK
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
