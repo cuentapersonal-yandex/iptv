@@ -22,7 +22,7 @@ http://168.228.44.241:9997/play/a09d/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvjupjw2GF4HkwHHjZi3bkTr6ysCG9wHB500r3ImgQhNa3ryOcqfruHQ&s=10" group-title="CANALES DE TV",UNIMÁS ESTE
 http://168.228.44.241:9997/play/a09e/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61CHwLiEnnL.png" group-title="CANALES DE TV",TELEMUNDO ESTE
-https://streamer.metronethn.com/Telemundo/index.m3u8
+http://200.35.176.154:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtunDk5y661f-W15axXUNBW1TU-AjJwaEHoV7tY5vL8g&s=10" group-title="CANALES DE TV",TELEMUNDO PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVK254jSpDOkq3p_xHYpBTfrcmHADbAfmuwQ34O7OTSg=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",PUNTO 2 PUERTO RICO
@@ -251,6 +251,8 @@ https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tra
 https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/-GdmThVE45ey6KgOpeG8i83vdDu8SL0Ozn91rhdTiJhM_i05fvudr4xfH2Z8YuY48VTWM0LI5Q=s900-c-k-c0x00ffffff-no-rj" group-title="CANALES DE TV",ADN NOTICIAS
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-685c57312e388c0e9cacb4d8.png?c=20261003" group-title="CANALES DE TV",AZTECA NOTICIAS
+https://jmp2.uk/rok-46eb1feb60da2bc45bee66f313b564de.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-686c4c6eb03d6c0e7b5e25a0.png?c=20260721" group-title="CANALES DE TV",AZTECA REGIONAL NEWS
 https://mdstrm.com/live-stream-playlist/686c4c6eb03d6c0e7b5e25a0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static-ottera.com/prod/est/linear_channel/thumbnails/square/en_vivo_placeholder-estrella_noticias.jpg?NvcsewNYrbQkT3MIOP8NazbVko9qOKOK" group-title="CANALES DE TV",ESTRELLA NEWS
@@ -279,3 +281,5 @@ https://streamer.metronethn.com/TUDN/index.m3u8
 http://168.228.44.241:9997/play/a09i/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB1r88rqLQTHK-54O4LK_op7jNaSyLfudsyY1ThgwTVodRGNxNR1atn7E&s=10" group-title="CANALES DE TV",AZTECA DEPORTES NETWORK
 http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-6994be4d5caab0723aaab37c.png?c=20261003" group-title="CANALES DE TV",NITRO
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6a4af78195c72f33f18ad29f.m3u8
